@@ -12,3 +12,5 @@ Hi there!👋
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MdSalim2001&show_icons=true&layout=compact&theme=radical" alt="Most Used Languages" width="500px">
 </p>
+
+<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=MdSalim2001&repo=amalp12a&countColorcountColor&countColor=%237B1E7B"/>
